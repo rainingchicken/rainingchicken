@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rainingchicken
-- 💪 I'm a full-stack softare engineer
+- 💪 I'm a full-stack software engineer
 - 👀 I’m interested in a software engineering position
 - 🌱 I’m currently learning TensorFlow
 <br/>
